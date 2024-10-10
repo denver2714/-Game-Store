@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "h+jPnxWg6KnVbY16uDZblh+sz9ORTtpAq4fHPT+X9go=",
+  "Source": "GameStore.Frontend",
+  "BasePath": "_content/GameStore.Frontend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GameStore.Frontend\\wwwroot",
+      "Source": "GameStore.Frontend",
+      "ContentRoot": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\wwwroot\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\602xsdby15-dof2vvn29j.gz",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "GameStore.Frontend#[.{fingerprint=dof2vvn29j}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kidsr6vr70",
+      "Integrity": "lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\hpytjbslhg-9tsjre4pz5.gz",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "app#[.{fingerprint=9tsjre4pz5}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "zge6vjnmxg",
+      "Integrity": "PdaBG2tuoxvrPNY2cAS3FDlWDET1o+7T3LR2fQ0gmvs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\qc129nah4a-dof2vvn29j.gz",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "GameStore.Frontend#[.{fingerprint=dof2vvn29j}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kidsr6vr70",
+      "Integrity": "lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "GameStore.Frontend#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "dof2vvn29j",
+      "Integrity": "3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "GameStore.Frontend#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "dof2vvn29j",
+      "Integrity": "3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\wwwroot\\app.css",
+      "SourceId": "GameStore.Frontend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\wwwroot\\",
+      "BasePath": "_content/GameStore.Frontend",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9tsjre4pz5",
+      "Integrity": "Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.9tsjre4pz5.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\hpytjbslhg-9tsjre4pz5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000776397516"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1287"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PdaBG2tuoxvrPNY2cAS3FDlWDET1o+7T3LR2fQ0gmvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 07:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9tsjre4pz5"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="
+        }
+      ]
+    },
+    {
+      "Route": "app.9tsjre4pz5.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 07:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9tsjre4pz5"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="
+        }
+      ]
+    },
+    {
+      "Route": "app.9tsjre4pz5.css.gz",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\hpytjbslhg-9tsjre4pz5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PdaBG2tuoxvrPNY2cAS3FDlWDET1o+7T3LR2fQ0gmvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 07:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9tsjre4pz5"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PdaBG2tuoxvrPNY2cAS3FDlWDET1o+7T3LR2fQ0gmvs="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\hpytjbslhg-9tsjre4pz5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000776397516"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1287"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PdaBG2tuoxvrPNY2cAS3FDlWDET1o+7T3LR2fQ0gmvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 07:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 07:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y3QRrYDjsQ+Bj4noKNSCcSRxgRtgAn0QL1o5m5BNepk="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\hpytjbslhg-9tsjre4pz5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PdaBG2tuoxvrPNY2cAS3FDlWDET1o+7T3LR2fQ0gmvs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 07:28:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PdaBG2tuoxvrPNY2cAS3FDlWDET1o+7T3LR2fQ0gmvs="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\602xsdby15-dof2vvn29j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\602xsdby15-dof2vvn29j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.dof2vvn29j.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\602xsdby15-dof2vvn29j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dof2vvn29j"
+        },
+        {
+          "Name": "label",
+          "Value": "GameStore.Frontend.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.dof2vvn29j.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\GameStore.Frontend.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dof2vvn29j"
+        },
+        {
+          "Name": "label",
+          "Value": "GameStore.Frontend.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.dof2vvn29j.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\602xsdby15-dof2vvn29j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dof2vvn29j"
+        },
+        {
+          "Name": "label",
+          "Value": "GameStore.Frontend.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.dof2vvn29j.styles.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\qc129nah4a-dof2vvn29j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dof2vvn29j"
+        },
+        {
+          "Name": "label",
+          "Value": "GameStore.Frontend.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.dof2vvn29j.styles.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dof2vvn29j"
+        },
+        {
+          "Name": "label",
+          "Value": "GameStore.Frontend.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.dof2vvn29j.styles.css.gz",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\qc129nah4a-dof2vvn29j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dof2vvn29j"
+        },
+        {
+          "Name": "label",
+          "Value": "GameStore.Frontend.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.styles.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\qc129nah4a-dof2vvn29j.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003086419753"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.styles.css",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\scopedcss\\bundle\\GameStore.Frontend.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "538"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3Qbi0IqPCDBug/PqR3Z2VRtNIXkYCwESiH9xup/qHoY="
+        }
+      ]
+    },
+    {
+      "Route": "GameStore.Frontend.styles.css.gz",
+      "AssetFile": "C:\\Users\\Kurt\\Desktop\\projects\\FullStack GameStore\\GameStore.FrontEnd\\GameStore.Frontend\\obj\\Debug\\net9.0\\compressed\\qc129nah4a-dof2vvn29j.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 22 Sep 2024 15:54:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lEndGWXexwaQng1WNGaqQ9nwLAnI21Rzs78C4wa/eVY="
+        }
+      ]
+    }
+  ]
+}

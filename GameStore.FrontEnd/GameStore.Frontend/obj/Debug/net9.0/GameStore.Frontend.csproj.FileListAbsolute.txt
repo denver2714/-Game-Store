@@ -1,0 +1,68 @@
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\bin\Debug\net9.0\appsettings.json
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.staticwebassets.runtime.json
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.staticwebassets.endpoints.json
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.exe
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.deps.json
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.runtimeconfig.json
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.dll
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.pdb
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.AssemblyInfoInputs.cache
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.AssemblyInfo.cs
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\scopedcss\bundle\GameStore.Frontend.styles.css
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\scopedcss\projectbundle\GameStore.Frontend.bundle.scp.css
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\compressed\hpytjbslhg-9tsjre4pz5.gz
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\compressed\qc129nah4a-dof2vvn29j.gz
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\compressed\602xsdby15-dof2vvn29j.gz
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\staticwebassets\msbuild.GameStore.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\staticwebassets\msbuild.GameStore.Frontend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\staticwebassets\msbuild.build.GameStore.Frontend.props
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.Frontend.props
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GameStore.Frontend.props
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.dll
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\refint\GameStore.Frontend.dll
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.pdb
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.genruntimeconfig.cache
+C:\Users\Kurt\Desktop\projects\GameStore\GameStore.Frontend\obj\Debug\net9.0\ref\GameStore.Frontend.dll
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\bin\Debug\net9.0\appsettings.json
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.staticwebassets.endpoints.json
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.staticwebassets.runtime.json
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.exe
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.deps.json
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.runtimeconfig.json
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.dll
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\bin\Debug\net9.0\GameStore.Frontend.pdb
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.AssemblyInfoInputs.cache
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.AssemblyInfo.cs
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\scopedcss\bundle\GameStore.Frontend.styles.css
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\scopedcss\projectbundle\GameStore.Frontend.bundle.scp.css
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\compressed\hpytjbslhg-9tsjre4pz5.gz
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\compressed\qc129nah4a-dof2vvn29j.gz
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\compressed\602xsdby15-dof2vvn29j.gz
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\staticwebassets\msbuild.GameStore.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\staticwebassets\msbuild.GameStore.Frontend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\staticwebassets\msbuild.build.GameStore.Frontend.props
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.Frontend.props
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.GameStore.Frontend.props
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.dll
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\refint\GameStore.Frontend.dll
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.pdb
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\GameStore.Frontend.genruntimeconfig.cache
+C:\Users\Kurt\Desktop\projects\FullStack GameStore\GameStore.FrontEnd\GameStore.Frontend\obj\Debug\net9.0\ref\GameStore.Frontend.dll
